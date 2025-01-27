@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Bhoir</h1>
-<h3 align="center">I like Omkar Bhoir He is cool I like Robotics and Web-dev</h3>
+<h3 align="center">Mesa like Robotics and Web-dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robaro12345&label=Profile%20views&color=0e75b6&style=flat" alt="robaro12345" /> </p>
 
