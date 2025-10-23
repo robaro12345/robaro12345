@@ -43,7 +43,7 @@
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,firebase,mongodb" />
 </p>
 
 ### Mobile & Game Development
