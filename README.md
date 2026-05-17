@@ -1,74 +1,98 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Bhoir;Robotics+%26+Web+Developer;Welcome+to+my+GitHub!)</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:58A6FF&height=140&section=header&text=Omkar%20Bhoir&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Mesa+like+Robotics+and+Web-dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Robotics+%7C+ML+%7C+Computer+Vision+%7C+Full-stack;Building+intelligent+systems+for+the+real+world;B.Tech+CE+%7C+KJSCE+Mumbai;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=robaro12345&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/robaro12345?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=robaro12345&label=Profile+views&color=00D9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/robaro12345?label=Followers&style=for-the-badge&color=58A6FF" />
+  <a href="https://bhoiromkar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-bhoiromkar.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 &nbsp;**B.Tech Computer Engineering** student at **K. J. Somaiya College of Engineering**, Mumbai
+- 🛡️ &nbsp;Honours in **Cyber Security & Forensics**
+- 🔭 &nbsp;Final-year project: training **YOLOv11n** for real-time obstacle detection (mAP50: **0.733**, 9 classes, ~27K images)
+- 🧠 &nbsp;Interests: **Robotics · Computer Vision · Backend Systems**
+- 💼 &nbsp;**Open to internships** in Robotics, ML, Computer Vision, and Full-stack Development
+- 📫 &nbsp;**omkar.bhoir@somaiya.edu**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,typescript,cpp,dart" />
+</p>
+
+### Robotics / ML / Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+  <code>Ultralytics (YOLOv11)</code> &nbsp;·&nbsp;
+  <code>TFLite</code> &nbsp;·&nbsp;
+  <code>MediaPipe</code> &nbsp;·&nbsp;
+  <code>scikit-learn</code> &nbsp;·&nbsp;
+  <code>NumPy</code> &nbsp;·&nbsp;
+  <code>Pandas</code>
+</p>
+
+### Mobile & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,tailwind" />
+</p>
+
+### Backend & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,postgresql,kafka,docker" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,blender,arduino" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="35" /> About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 **Currently working on:** Portfolio Page
-- 🌱 **Learning:** Next.js, C++, Nest.js
-- 🤖 **Passionate about:** Robotics & Web Development
-- 💡 **Always exploring:** New technologies and innovations
-- 📫 **Reach me at:** omkar.bhoir@somaiya.edu
-- ⚡ **Fun fact:** I love building robots as much as I love building websites!
-
-<br clear="both">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> Tech Stack & Tools
-
-<div align="center">
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,firebase,mongodb" />
-</p>
-
-### Mobile & Game Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative,unity,unreal" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,arduino,blender,postman" />
-</p>
-
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" /> GitHub Analytics
-
-<div align="center">
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=robaro12345&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" />
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Afacad%20Flux&preferLogin=false">    <img  alt="robaro12345's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/robaro12345?cardType=level-alternate&theme=tokyonight&fontFamily=Afacad%20Flux&preferLogin=false" />  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robaro12345&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=robaro12345&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=58A6FF&currStreakLabel=00D9FF" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" width="35" /> Coding Profiles
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robaro12345&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+## ✍️ Latest on Medium
+
+<!-- MEDIUM-POST-LIST:START -->
+- Polyglot Architecture in Microservices — when and why to mix your stack
+- Netflix Eureka & Spring Boot — service discovery that actually makes sense
+<!-- MEDIUM-POST-LIST:END -->
+
+📖 [Read all articles →](https://medium.com/@omkarprajakta)
+
+---
+
+## 🏆 Coding Profiles
 
 <div align="center">
 
@@ -78,24 +102,19 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> Connect With Me
+---
+
+## 🤝 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarvbhoir/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omkarprajakta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhoiromkar.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkar.bhoir@somaiya.edu)
 
 </div>
 
-
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="30" />
-  <b>Thanks for visiting my profile!</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="30" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:00D9FF,100:0D1117&height=100&section=footer" />
 </div>
